@@ -1,2 +1,3 @@
 data/
 unet_checkpoints/
+__pycache__/
