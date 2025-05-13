@@ -1,3 +1,7 @@
 data/
 unet_checkpoints/
 __pycache__/
+*.png
+*.jpg
+*.jpeg
+*.gif
